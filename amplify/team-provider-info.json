@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fincept-dev-103347-authRole",
+      "UnauthRoleArn": "arn:aws:iam::543669058388:role/amplify-fincept-dev-103347-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::543669058388:role/amplify-fincept-dev-103347-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-fincept-dev-103347-deployment",
+      "UnauthRoleName": "amplify-fincept-dev-103347-unauthRole",
+      "StackName": "amplify-fincept-dev-103347",
+      "StackId": "arn:aws:cloudformation:ap-south-1:543669058388:stack/amplify-fincept-dev-103347/cffa1a90-fa8d-11ec-a79a-02b717138f62",
+      "AmplifyAppId": "d1xf2885hzgnvc"
+    },
+    "categories": {
+      "auth": {
+        "finceptcb6d97cb": {}
+      }
+    }
+  }
+}
